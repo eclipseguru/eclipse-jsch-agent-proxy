@@ -45,4 +45,11 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
          version="0.0.0"
          unpack="false"/>
 
+   <plugin
+         id="com.jcraft.jsch.agentproxy.eclipse.pageant"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
 </feature>
