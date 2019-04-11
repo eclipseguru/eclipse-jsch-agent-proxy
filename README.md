@@ -4,6 +4,7 @@
 
 Please help building an ssh-agent integration for the Eclipse Git. [Details at bug 541274](https://bugs.eclipse.org/bugs/show_bug.cgi?id=541274)
 
+---
 
 # Eclipse ssh-agent and Pageant support
 
