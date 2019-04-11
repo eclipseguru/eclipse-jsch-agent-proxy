@@ -1,4 +1,12 @@
+**:point_right: No Longer Maintained :point_left:**
+
+*The Eclipse Git integration is considering moving away from JSch. This project is therefore no longer maintained.*
+
+Please help building an ssh-agent integration for the Eclipse Git. [Details at bug 541274](https://bugs.eclipse.org/bugs/show_bug.cgi?id=541274)
+
+
 # Eclipse ssh-agent and Pageant support
+
 This project provides Eclipse Plug-ins to use [OpenSSH](http://www.openssh.com/)'s [ssh-agent](http://en.wikipedia.org/wiki/Ssh-agent)
 and [Pageant](http://en.wikipedia.org/wiki/PuTTY#Applications) in Eclipse.
 
